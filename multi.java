@@ -7,7 +7,12 @@ public class multi {
 		int m = in.nextInt();
 		System.out.print("Enter the value:");
 		int n = in.nextInt();
-		System.out.println(m*n);
+		System.out.println("Sum of m and n is: " + m+n);
+		System.out.println("differnce of m and n is: " + m-n);
+		System.out.println("Multiplication of m and n is: " + m*n);
+		System.out.println("Divison of m and n is: "+ m/n);
+		System.out.println("Mod of m and n is: "+ m%n);
+		
 		
 		
 
