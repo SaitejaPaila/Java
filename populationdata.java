@@ -1,10 +1,10 @@
 
-package pailaslab7;
+package populationdata;
 import java.util.*;
 import java.io.*;
 
 
-public class PailaSLab7 {
+public class Population_data {
 
     
     public static void main(String[] args) throws FileNotFoundException {
