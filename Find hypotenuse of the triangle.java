@@ -19,7 +19,7 @@ public class PailaSLab2 {
         int side2 = input.nextInt();
         double hypotenuse = Math.sqrt((side1 *side1) + (side2*side2));
        
-        System.out.println("The length of hypotenuse is " + hypotenuse
+        System.out.println("The length of hypotenuse is " + hypotenuse)
         
        
     }
