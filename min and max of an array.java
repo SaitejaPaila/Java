@@ -1,5 +1,5 @@
 import java.util.Arrays; 
-public class Exercise10 {
+public class Minimum_and_Maximum {
  
   static int max;
   static int min;
