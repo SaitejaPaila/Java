@@ -1,8 +1,8 @@
 
-package excercise1problem2;
+package pop;
 
 import java.util.Scanner;
-public class Excercise1Problem2 {
+public class pop {
 
     
     public static void main(String[] args) {
