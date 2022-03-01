@@ -1,8 +1,8 @@
 
-package pailaslab3;
+package dicegame;
 
 import java.util.*;
-public class PailaSLab3 {
+public class Dicegame {
 
     
     public static void main(String[] args) {
