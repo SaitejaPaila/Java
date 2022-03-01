@@ -1,12 +1,12 @@
 
-package pailaslab1;
+package userinput;
 import java .util.*; 
 /**
  * Date: January 17,2022
  * @author saitejapaila
  * Description : Lab 1
  */
-public class PailaSLab1 {
+public class Userinput {
 
     
     public static void main(String[] args) {
