@@ -1,8 +1,8 @@
 
-package excercise1problem2;
+package populationcalculation;
 
 import java.util.Scanner;
-public class Excercise1Problem2 {
+public class populationcalculation {
 
     
     public static void main(String[] args) {
