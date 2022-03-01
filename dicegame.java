@@ -43,7 +43,7 @@ public class Dicegame {
         int rand7 = randNum1.nextInt(6) + 1;
         int rand8 = randNum1.nextInt(6) + 1;
         System.out.println(player2 + " " + rand7 +" " + rand8);
-        System.out.println("And the winner is.....");
+        System.out.println("And the winner is....");
         if((rand5+rand6) > (rand7+rand8)){
             System.out.println(player1 + " with a total of " + " " + (rand5+rand6) );
         }
